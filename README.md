@@ -1,19 +1,19 @@
-Objective:
+## Objective:
 Break all the bricks as fast as possible using the bouncing ball and the paddle. When the ball misses the paddle and hits the ground, you lose a life. When all lives are lost, the game ends.
 
-Controls:
+## Controls:
 S - Launch the ball
 A - Move the paddle left
 D - Move the paddle right
 
-Bricks:
+## Bricks:
 Red - Take 3 hits to break (Strength 3)
 Yellow - Take 2 hits to break (Strength 2)
 Green - Take 1 hit to break (Strength 1)
 Purple - Unbreakable (unless a Thru-ball powerup is used)
 Rainbow - Settles on a color and strength once its hit
 
-Powerups:
+## Powerups:
 Expand - Expands the size of the paddle
 Shrink - Shrinks size of the paddle
 Double - Doubles the number of balls present
